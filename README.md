@@ -21,9 +21,13 @@
 （2）打包source文件夹，将source.dll和主程序放在一起
 （3）将必须的dll主程序放在一起，有：node.dll，libeay32.dll。
 因此文件结构为：
+
   |- 主程序.exe
+  
   |- source.dll
+  
   |- node.dll
+  
   |- libeay32.dll
 
 # 升级miniblink
