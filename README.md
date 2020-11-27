@@ -1,5 +1,5 @@
 # winMiniblinkUi
-基于miniblink的Windows桌面软件UI框架，小巧灵活，适用于C++语言，采用VS编译。
+基于miniblink的Windows桌面软件UI框架，小巧灵活，适用于C++语言，采用VS2019编译(Win32 x86)。
 
 # 特性
 （1）集成世界上最小的miniblink框架，方便基于HTML, Javascript，CSS等web前端技术开发桌面软件。
